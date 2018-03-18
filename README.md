@@ -1,2 +1,2 @@
 # Trillo
-One page responsive layout with building layout using flexbox.
+One page responsive layout with using flexbox.
